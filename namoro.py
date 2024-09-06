@@ -16,7 +16,7 @@ def move_button_1(e):
 
 def accepted():
     messagebox.showinfo(
-        'Meu amor', 'Eu te amo meu bem, lanchinho mais tarde?')
+        'Meu amor', 'Eu te amo meu bem, vamos sair mais tarde?')
 
 def denied():
     button_1.destroy()
